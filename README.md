@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋 My name is Marcos.</h2>
+<h2 align="left">Hi 👋 My name is Marcos :)</h2>
 
 ###
 
@@ -9,8 +9,8 @@
 
 ###
 
-<div align="none">
-  <img height="150" src="https://i.gifer.com/XOsX.gif"  />
+<div align="center">
+  <img height="170" src="https://i.gifer.com/XOsX.gif"  />
 </div>
 
 ###
@@ -52,3 +52,5 @@
 </div>
 
 ###
+
+
