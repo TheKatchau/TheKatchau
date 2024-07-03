@@ -10,7 +10,7 @@
 ###
 
 <div align="center">
-  <img height="170" src="https://i.gifer.com/XOsX.gif"  />
+  <img height="170" src="https://gifdb.com/images/high/walking-duck-animated-happy-waddle-swnffm726l0qmw5j.gif"  />
 </div>
 
 ###
