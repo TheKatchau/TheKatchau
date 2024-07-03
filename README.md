@@ -9,8 +9,8 @@
 
 ###
 
-<div align="right">
-  <img height="170" src="https://i.gifer.com/XOsX.gif"  />
+<div align="none">
+  <img height="150" src="https://i.gifer.com/XOsX.gif"  />
 </div>
 
 ###
