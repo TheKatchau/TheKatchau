@@ -49,6 +49,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" alt="ubuntu logo"  />
   <img width="12" />
   <img src="https://static-00.iconduck.com/assets.00/amazon-aws-icon-2048x1224-ug1v1ts2.png" height="30" alt="amazonwebservices logo"  />
+  <img width="12" />
 </div>
 
 ###
